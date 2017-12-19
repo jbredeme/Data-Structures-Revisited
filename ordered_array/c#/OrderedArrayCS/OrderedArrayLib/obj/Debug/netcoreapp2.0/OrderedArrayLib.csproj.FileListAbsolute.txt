@@ -1,0 +1,9 @@
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\bin\Debug\netcoreapp2.0\OrderedArrayLib.deps.json
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\bin\Debug\netcoreapp2.0\OrderedArrayLib.dll
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\bin\Debug\netcoreapp2.0\OrderedArrayLib.pdb
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\obj\Debug\netcoreapp2.0\OrderedArrayLib.csproj.CoreCompileInputs.cache
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\obj\Debug\netcoreapp2.0\OrderedArrayLib.AssemblyInfoInputs.cache
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\obj\Debug\netcoreapp2.0\OrderedArrayLib.AssemblyInfo.cs
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\obj\Debug\netcoreapp2.0\OrderedArrayLib.dll
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\obj\Debug\netcoreapp2.0\OrderedArrayLib.pdb
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayLib\obj\Debug\netcoreapp2.0\OrderedArrayLib.csprojResolveAssemblyReference.cache

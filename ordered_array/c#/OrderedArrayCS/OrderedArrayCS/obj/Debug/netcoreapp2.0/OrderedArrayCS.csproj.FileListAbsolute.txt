@@ -1,0 +1,13 @@
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayCS.deps.json
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayCS.runtimeconfig.json
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayCS.runtimeconfig.dev.json
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayCS.dll
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayCS.pdb
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\obj\Debug\netcoreapp2.0\OrderedArrayCS.csprojResolveAssemblyReference.cache
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\obj\Debug\netcoreapp2.0\OrderedArrayCS.csproj.CoreCompileInputs.cache
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\obj\Debug\netcoreapp2.0\OrderedArrayCS.AssemblyInfoInputs.cache
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\obj\Debug\netcoreapp2.0\OrderedArrayCS.AssemblyInfo.cs
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\obj\Debug\netcoreapp2.0\OrderedArrayCS.dll
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\obj\Debug\netcoreapp2.0\OrderedArrayCS.pdb
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayLib.dll
+C:\Users\JARID\source\repos\OrderedArrayCS\OrderedArrayCS\bin\Debug\netcoreapp2.0\OrderedArrayLib.pdb
