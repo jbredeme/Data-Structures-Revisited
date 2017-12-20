@@ -6,7 +6,7 @@ To see an implementation click on "view" link within the table.
 
 | Sorting Algorithms | C | C# | C++ | Java | JavaScript | Python |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| Ordered array |   |   |   |   |   |   |
+| Ordered array |   | [view](ordered_array/c%23) |   |   |   |   |
 | Stack |   |  |   |  |   |   |
 | Queue |   |   |   |   |   |   |
 | Linked list |   |   |   |   |   |   |
