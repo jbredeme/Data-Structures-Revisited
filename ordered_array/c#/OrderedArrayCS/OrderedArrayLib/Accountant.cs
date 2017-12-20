@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 
 namespace OrderedArrayLib {
-    class Accountant : Employee {
+    public class Accountant : Employee {
         private string report;
         private string audit;
 

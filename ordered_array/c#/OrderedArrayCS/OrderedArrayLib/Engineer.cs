@@ -10,7 +10,7 @@ namespace OrderedArrayLib {
 
     }
 
-    class Engineer : Employee {
+    public class Engineer : Employee {
         private Team team;
         private string project;
 

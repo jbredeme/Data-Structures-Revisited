@@ -11,7 +11,7 @@ namespace OrderedArrayLib {
 
     }
 
-    class Employee {
+    public class Employee {
         protected string fname;
         protected string lname;
         protected int id;
