@@ -3,18 +3,110 @@
  * @author Jarid Bredemeier
  *
  */
+
 public class OrderedArrayApp {
 	public static void main(String[] args) {
-		OrderedArray oarr = new OrderedArray(10);
+		OrderedArray arr = new OrderedArray(15);
+		int num;
+		int[] temp;
+		String output;
 		
-		oarr.insert(2017001, 1.5, "MB1021");
-		oarr.insert(2017002, 1.3, "MB1023");
-		oarr.insert(2017003, 3.0, "MB1025");
-		oarr.insert(2017004, 3.0, "MB1027");
-		oarr.insert(2017005, 4.0, "MB1029");
-		oarr.insert(2017006, 1.0, "MB1031");
+		arr.insert(17);
+		System.out.println(arr);
 		
-		System.out.println(oarr);
+		arr.insert(2);
+		System.out.println(arr);
+		
+		arr.insert(12);
+		System.out.println(arr);
+		
+		arr.insert(15);
+		System.out.println(arr);
+		
+		arr.insert(12);
+		System.out.println(arr);
+		
+		arr.insert(7);
+		System.out.println(arr);
+		
+		arr.insert(9);
+		System.out.println(arr);
+		
+		arr.insert(12);
+		System.out.println(arr);
+		
+		arr.delete(2);
+		System.out.println(arr);
+		
+		arr.delete(12);
+		System.out.println(arr);
+		
+		arr.insert(9);
+		System.out.println(arr);
+		
+		arr.insert(14);
+		System.out.println(arr);
+		
+		arr.insert(16);
+		System.out.println(arr);
+		
+		num = 9;
+		temp = arr.find(num);
+		
+		System.out.printf("Finding %d...\n", num);
+		if(temp[0] == -1) {
+			System.out.printf("%d is not in the array.\n\n", num);
+			
+		} else {
+			output = new String();
+			for(int i = temp[0]; i <= temp[1]; i++) {
+				output += i + ", ";
+			}
+			System.out.printf("%d is located at index(s) %s\n\n", num, output.substring(0, output.length() - 2));
+			
+		}
+		
+		num = 3;
+		temp = arr.find(num);
+		
+		System.out.printf("Finding %d...\n", num);
+		if(temp[0] == -1) {
+			System.out.printf("%d is not in the array.\n\n", num);
+			
+		} else {
+			output = new String();
+			for(int i = temp[0]; i <= temp[1]; i++) {
+				output += i + ", ";
+			}
+			System.out.printf("%d is located at index(s) %s\n\n", num, output.substring(0, output.length() - 2));
+			
+		}		
+		
+		num = 17;
+		temp = arr.find(num);
+		
+		System.out.printf("Finding %d...\n", num);
+		if(temp[0] == -1) {
+			System.out.printf("%d is not in the array.\n\n", num);
+			
+		} else {
+			output = new String();
+			for(int i = temp[0]; i <= temp[1]; i++) {
+				output += i + ", ";
+			}
+			System.out.printf("%d is located at index(s) %s\n\n", num, output.substring(0, output.length() - 2));
+			
+		}			
+		
+		
+		
+		
+		
+		
+		
+
+		
+		
 	}
 	
 }
