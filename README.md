@@ -9,7 +9,7 @@ To see an implementation click on "view" link within the table.
 | Ordered array |   | [view](ordered_array/c%23) |   | [view](ordered_array/java) |   |   |
 | Stack |   |  |   |  |   |   |
 | Queue |   |   |   |   |   |   |
-| Linked list |   |   |   |   |   |   |
+| Linked list |   |   |   | [view](doubly_linked_list/java) |   |   |
 | Binary tree |   |   |   |   |   |   |
 | Red-black tree |   |   |   |   |   |   |
 | 2-3-4 tree |   |   |   |   |   |   |
