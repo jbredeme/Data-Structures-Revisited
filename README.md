@@ -7,7 +7,7 @@ To see an implementation click on "view" link within the table.
 | Sorting Algorithms | C | C# | C++ | Java | JavaScript | Python |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | Ordered array |   | [view](ordered_array/c%23) |   | [view](ordered_array/java) |   |   |
-| Stack |   |  |   |  |   |   |
+| Stack |   |  |   | [view](stack/java) |   |   |
 | Queue |   |   |   |   |   |   |
 | Linked list |   |   |   | [view](doubly_linked_list/java) |   |   |
 | Binary tree |   |   |   |   |   |   |
